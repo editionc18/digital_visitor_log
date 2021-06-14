@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "964364134361",
+    "project_id": "digital-visitor-log-abb61",
+    "storage_bucket": "digital-visitor-log-abb61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964364134361:android:667f9f1bcbf28884125bc8",
+        "android_client_info": {
+          "package_name": "kr.hsndmslib.dvl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964364134361-529qk3fu5j7qsiciiflk184i6t8kjs8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh5b0bGSmSnfXLq0DfDfGJWoz5e4h1OBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964364134361-529qk3fu5j7qsiciiflk184i6t8kjs8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
